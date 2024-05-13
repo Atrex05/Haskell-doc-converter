@@ -1,5 +1,7 @@
 # Pandoc
 
+This project was made in the context of my 2nd year with the help of two other students.
+
 The Pandoc project is designed to simplify the complex process of document conversion across various formats, mirroring the functionality of the renowned Pandoc software. This project focuses on the development of a versatile tool capable of transforming documents between different markup languages and file formats, ensuring seamless integration and compatibility across diverse platforms.
 
 The primary goal of the project is to create a simplified version of Pandoc that supports conversion between three specific formats: XML, JSON, and Markdown. This functionality is particularly useful in environments where document exchange and format interoperability are crucial, such as academic publishing, web content management, and software documentation.
